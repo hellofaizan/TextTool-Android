@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/gSpo"
+        android:icon="@drawable/github"
+        android:title="@string/github_sponsor" />
+    <item android:id="@+id/gOS"
+        android:icon="@drawable/discord"
+        android:title="@string/discord" />
+    <item android:id="@+id/ig"
+        android:icon="@drawable/instagram"
+        android:title="@string/instagram" />
+    <item android:id="@+id/tw"
+        android:icon="@drawable/twitter"
+        android:title="@string/twitter" />
+    <item android:id="@+id/git"
+        android:icon="@drawable/github"
+        android:title="@string/github" />
+    <item android:id="@+id/ad"
+        android:icon="@drawable/youtube"
+        android:title="@string/youtube" />
+    <item android:id="@+id/share"
+        android:icon="@drawable/share"
+        android:title="@string/share" />
+</menu>

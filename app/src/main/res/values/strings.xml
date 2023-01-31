@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TextTool</string>
+    <string name="github_sponsor">Github Sponsor</string>
+    <string name="instagram">Instagram</string>
+    <string name="twitter">Twitter</string>
+    <string name="github">Github</string>
+    <string name="youtube">Youtube</string>
+    <string name="github_repo">Github Repository</string>
+    <string name="share">Share App</string>
+    <string name="discord">DIscord</string>
+    <string name="open_source_on_github">Open Source on Github</string>
+    <string name="enter_text_to_analyse">Enter Text to Analyse</string>
+    <string name="titlecase">TitleCase</string>
+    <string name="uppercase">UpperCase</string>
+    <string name="text_summary">Text Summary</string>
+    <string name="chWords">0 Words, 0 Characters</string>
+    <string name="preview">Preview</string>
+    <string name="previewTxt">Enter your text in above box</string>
+</resources>
