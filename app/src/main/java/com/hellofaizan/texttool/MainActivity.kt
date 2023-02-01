@@ -115,7 +115,7 @@ class MainActivity : AppCompatActivity() {
             val shareIntent = Intent()
             shareIntent.action = Intent.ACTION_SEND
             shareIntent.type="text/plain"
-            shareIntent.putExtra(Intent.EXTRA_TEXT, "RiSE Students Unofficial App. Check Daily and Weekly Class Schedules and Results instantly.\n\nDownload Now\nhttps://play.google.com/store/apps/details?id=$packageName")
+            shareIntent.putExtra(Intent.EXTRA_TEXT, "TextTool text analysis Open Source app on Github.\n\nDownload Now\nhttps://play.google.com/store/apps/details?id=$packageName")
             startActivity(Intent.createChooser(shareIntent,"Share via"))
             return true
 
